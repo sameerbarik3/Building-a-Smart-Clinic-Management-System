@@ -179,8 +179,8 @@ docker run -p 8080:8080 smart-clinic-app
 
 I am **Sameer**, a Computer Science and Engineering student focused on building robust, scalable backend architectures. This capstone serves as a demonstration of my skills in Java enterprise technologies, relational database optimization, and microservice patterns.
 
-* **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://www.google.com/search?q=https://github.com/sameerbarik3)
-* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.google.com/search?q=https://linkedin.com/in/sameerbarik)
+* **GitHub:** [github.com/sameerbarik3](https://www.google.com/search?q=https://github.com/sameerbarik3)
+* **LinkedIn:** [linkedin.com/in/sameerbarik](https://www.google.com/search?q=https://linkedin.com/in/sameerbarik)
 
 ---
 
